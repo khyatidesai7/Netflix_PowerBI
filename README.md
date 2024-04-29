@@ -1,5 +1,13 @@
 # Netflix PowerBI Dashboard
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Dataset](#dataset)
+3. [Process](#process)
+4. [Goals](#goals)
+5. [Usage](#usage)
+6. [Credits](#credits)
+
 ## Overview
 
 This project focuses on creating a dynamic PowerBI dashboard utilizing a dataset containing the list and metadata of all TV shows and movies available on Netflix. The dataset, sourced from Kaggle, consists of approximately 7000 entries gathered from the IMDb website.
@@ -36,9 +44,8 @@ To replicate or explore the dashboard:
 2. Open the PowerBI file (Netflix_Dashboard.pbix) using PowerBI Desktop.
 3. Explore the dataset, visualizations, and filters to gain insights into Netflix TV shows and movies.
 
+## Credits
 
-Credits: https://www.youtube.com/@PowerBIBro ( YT- https://www.youtube.com/watch?v=InYxu2h7o6I&ab_channel=PowerBIBro)
-
-Kaggle: https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list 
-
-Netflix Branding: https://brand.netflix.com/en/assets/logos/
+- [PowerBIBro](https://www.youtube.com/@PowerBIBro) for providing valuable insights and resources on building PowerBI dashboards. Watch the tutorial [here](https://www.youtube.com/watch?v=InYxu2h7o6I&ab_channel=PowerBIBro).
+- Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list).
+- Netflix branding assets available at [Netflix Branding](https://brand.netflix.com/en/assets/logos/).
